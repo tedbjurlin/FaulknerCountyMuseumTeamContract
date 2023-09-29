@@ -95,5 +95,7 @@ I am taking the roles of Client Communicator and Framework lead for this project
 
 ### Scott Cooney
 ### Jacob Collier-Tenison
+I will be taking on the tasks of team organization and SQL schema design. Throughout the semester, I will track the deadlines to keep us on track and make sure that everyone is fulfilling their responsibilities. This includes responsibilities for the tasks they are taking the lead on and helping out with other tasks. I really want to help everyone share in the work fairly. This includes doing my part. I will take the lead on designing the SQL schema when it is time for that to be done, but I will also make sure to check in with my teammates to see how I can help them. If I have any conflicts, I would want to start by just talking to the person individually and seeing if we can come to a resolution. If that does not work, I would try to start a team conversation regarding the topic and see if we can all agree on a way to go forward. Of course, if that fails, I will go to Dr. Goadrich and ask for assistance navigating the conflict. 
+
 
 ### Henry Jackson
