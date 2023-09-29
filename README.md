@@ -91,6 +91,8 @@ Bring the problem to Dr. Goadrich to help moderate the conversation.
 
 ### Ted Bjurlin
 
+I am taking the roles of Client Communicator and Framework lead for this project. I plan to take the initiative in learning my teammates' schedules and setting up meetings with our client. I will also be the main person responsible for our websites framework and deployment. In addition to this, I plan to help my teammates when they need help and to use my experience from Mobile Software Development and Disco Tray Studios to help resolve conflicts and ensure that our team has an effective workflow.
+
 ### Scott Cooney
 ### Jacob Collier-Tenison
 
