@@ -7,7 +7,7 @@
 | Ted Bjurlin | bjurlintw@hendrix.edu | Client Communicator, Framework |
 | Scott Cooney | Cooneysd@hendrix.edu | front-end JavaScript/ajax |
 | Jacob Collier-Tenison | colliertenisonjt@hendrix.edu | Team Organization, SQL Schema |
-| Henry Jackson | jacksonht@hendrix.edu | Front-End HTML |
+| Henry Jackson | jacksonht@hendrix.edu | Front-End HTML/CSS |
 
 ## Team Structure
 
