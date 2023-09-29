@@ -102,7 +102,5 @@ I will be taking on the tasks of team organization and SQL schema design. Throug
 
 
 ### Henry Jackson
-<<<<<<< HEAD
 I will be taking on the task of Front End HTML, and will also take notes at team meetings. I will be in charge of making sure that our HTML page is styled well and to the client's specifications. I will also make sure that I add any relevant information given to me by other members of the group to make sure that everything is in place to give the team a better idea of what the final project will look like. In addition to these duties, I also intend to take notes at any and all team meetings so that everyone can have a record of what they intend to do between meetings.
-=======
->>>>>>> 1477512e2874d68fd8799b7aeef5223b6c896820
+
