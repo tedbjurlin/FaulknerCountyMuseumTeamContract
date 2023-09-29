@@ -5,7 +5,7 @@
 | Team Member Name | E-Mail | Roles |
 |---|---|---|
 | Ted Bjurlin | bjurlintw@hendrix.edu | Client Communicator, Framework |
-| Scott Cooney | | |
+| Scott Cooney | Cooneysd@hendrix.edu | front-end JavaScript/ajax |
 | Jacob Collier-Tenison | | |
 | Henry Jackson | | |
 
@@ -94,6 +94,9 @@ Bring the problem to Dr. Goadrich to help moderate the conversation.
 I am taking the roles of Client Communicator and Framework lead for this project. I plan to take the initiative in learning my teammates' schedules and setting up meetings with our client. I will also be the main person responsible for our websites framework and deployment. In addition to this, I plan to help my teammates when they need help and to use my experience from Mobile Software Development and Disco Tray Studios to help resolve conflicts and ensure that our team has an effective workflow.
 
 ### Scott Cooney
+
+My team responsibilities are to work on front-end JavaScript/ajax. I will contribute to a positive team experience by completing my responsibilities and help with other tasks if needed. I or the team will solve conflicts by talking about them with each other but if we are unable to, I will seek assistance from Dr. Goadrich.
+
 ### Jacob Collier-Tenison
 I will be taking on the tasks of team organization and SQL schema design. Throughout the semester, I will track the deadlines to keep us on track and make sure that everyone is fulfilling their responsibilities. This includes responsibilities for the tasks they are taking the lead on and helping out with other tasks. I really want to help everyone share in the work fairly. This includes doing my part. I will take the lead on designing the SQL schema when it is time for that to be done, but I will also make sure to check in with my teammates to see how I can help them. If I have any conflicts, I would want to start by just talking to the person individually and seeing if we can come to a resolution. If that does not work, I would try to start a team conversation regarding the topic and see if we can all agree on a way to go forward. Of course, if that fails, I will go to Dr. Goadrich and ask for assistance navigating the conflict. 
 
